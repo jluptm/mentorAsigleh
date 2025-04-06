@@ -3,7 +3,7 @@ import os
 from PIL import Image
 
 def main():
-    st.title("Visor de Imágenes con Selector de Carpetas")
+    st.title("Mentoreo Pastoral Asigleh")
 
     # Ruta base donde se encuentran las carpetas de imágenes
     ruta_base = "."  # La misma carpeta del script por defecto
